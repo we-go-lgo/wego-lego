@@ -60,6 +60,7 @@ nav {
   align-items: center;
   text-align: center;
   font-size: 40px;
+  position: relative;
 }
 
 h1 {
